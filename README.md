@@ -1,5 +1,6 @@
 # JAVA SPRING STUDY
-![img.png](img.png)
+
+![img_1.png](img_1.png)
 
 자바 스프링 부트를 공부하는 레포지토리 입니다.
 
